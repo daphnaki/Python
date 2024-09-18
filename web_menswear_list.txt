@@ -1,0 +1,9 @@
+google.com/search?q=menswear&ie=UTF-8&oe=UTF-8&hl=en-il&client=safari
+
+google.com/search?q=menswear+fashion+trends&ie=UTF-8&oe=UTF-8&hl=en-il&client=safari
+
+google.com/search?q=highsnobiety&ie=UTF-8&oe=UTF-8&hl=en-il&client=safari
+
+google.com/search?q=bussiness+of+fashion&ie=UTF-8&oe=UTF-8&hl=en-il&client=safari
+
+google.com/search?q=id+magazine&ie=UTF-8&oe=UTF-8&hl=en-il&client=safari
