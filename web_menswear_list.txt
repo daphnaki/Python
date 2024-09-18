@@ -8,4 +8,4 @@ google.com/search?q=bussiness+of+fashion&ie=UTF-8&oe=UTF-8&hl=en-il&client=safar
 
 google.com/search?q=id+magazine&ie=UTF-8&oe=UTF-8&hl=en-il&client=safari
 
-instagram.com/bof/
+instagram.com/bof?igsh=MXRkdzV4ZHY3OG9tMg==
